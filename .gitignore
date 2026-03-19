@@ -19,7 +19,7 @@ ENV/
 *.env
 
 # # ── ML model files ─────────────────────────────────────────────────────────
-# ml/model.pt
+ml/model.pt
 # ml/model.pth
 # ml/*.pt
 # ml/*.pth
